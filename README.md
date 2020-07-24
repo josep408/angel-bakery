@@ -1,0 +1,1 @@
+This is the Alpha application for the  Angel Bakery project, a page for the intended purpose of creating a website for Luis who decorates cakes and makes amazing designs. The Beta part will have the rest of the pictures, a better description and a more styled table, as well as a translation to spanish.
